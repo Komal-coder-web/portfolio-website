@@ -114,6 +114,10 @@ section p{
     color:#1e3a8a;
     margin-bottom:8px;
 }
+.project-card strong{
+    color:#1e3a8a;
+    font-weight:600;
+}
 
 /* CONTACT LINKS */
 

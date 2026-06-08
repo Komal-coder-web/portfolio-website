@@ -79,22 +79,16 @@ section p{
 
 /* SKILLS */
 
-.skills{
-    margin-top:15px;
-}
-
 .skills span{
     display:inline-block;
     background:#2563eb;
     color:white;
     padding:10px 18px;
-    margin:6px;
     border-radius:25px;
     font-size:14px;
     font-weight:600;
     transition:0.3s;
 }
-
 .skills span:hover{
     background:#1e40af;
     transform:scale(1.05);
